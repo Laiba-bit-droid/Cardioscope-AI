@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pandas
+openpyxl
+numpy
+scikit-learn
+xgboost
+shap
+torch
+joblib
+matplotlib
